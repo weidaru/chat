@@ -1,0 +1,9 @@
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\bin\Release\ClientView.exe
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\bin\Release\ClientView.pdb
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\ClientView.Client.resources
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\ClientView.Properties.Resources.resources
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\ClientView.exe
+C:\Users\Shen\Documents\Visual Studio 2010\Projects\TcpClient\ClientView\obj\x86\Release\ClientView.pdb
